@@ -1,9 +1,10 @@
 # cloudtools
 Tools for VPS and cloud providers
 
-## WHMCS
+## Billing systems
 * WHMCS: http://www.whmcs.com/
 * Blesta: http://www.blesta.com/
+* ShineISP: https://github.com/shinesoftware/shineisp2/wiki (OS)
 
 ## Server/Hosting management
 * OpenVZ: https://openvz.org (OS)
