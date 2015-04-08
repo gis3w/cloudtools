@@ -1,6 +1,11 @@
 # cloudtools
 Tools for VPS and cloud providers
 
+## Virtualization
+* Docker
+* Vagrant
+* KVM, XEN, VBox
+
 ## Billing systems
 * WHMCS: http://www.whmcs.com/
 * Blesta: http://www.blesta.com/
