@@ -20,5 +20,9 @@ Tools for VPS and cloud providers
 * OnApp: http://onapp.com/
 * cPanel + WHM: https://store.cpanel.net/
 
+## Networking
+* Open vSwitch: http://openvswitch.org/
+* VLAN: http://en.wikipedia.org/wiki/Virtual_LAN, https://wiki.ubuntu.com/vlan
+
 ## Minimal solution
 Using WHMCS hooks to auomate vagrant setup and provisioning (with Puppet)
