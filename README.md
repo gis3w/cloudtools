@@ -12,3 +12,6 @@ Tools for VPS and cloud providers
 * Virtuozzo: http://www.odin.com/products/virtuozzo/
 * SolusVM: http://solusvm.com/
 * VirtPanel: https://site.virtpanel.com/
+
+## Minimal solution
+Using WHMCS hooks to auomate vagrant setup and provisioning (with Puppet)
