@@ -5,7 +5,7 @@ Tools for VPS and cloud providers
 * WHMCS: http://www.whmcs.com/
 * Blesta: http://www.blesta.com/
 
-## VPS management
+## Server/Hosting management
 * OpenVZ: https://openvz.org (OS)
 * Xen Hypervisor: http://www.xenproject.org/ (OS)
 * Froxlor: http://froxlor.org/ (OS)
