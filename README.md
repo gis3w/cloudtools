@@ -10,10 +10,9 @@ Tools for VPS and cloud providers
 * WHMCS: http://www.whmcs.com/
 * Blesta: http://www.blesta.com/
 * ShineISP: https://github.com/shinesoftware/shineisp2/wiki (OS)
+* Virtkick: https://www.virtkick.com/
 
-## Server/Hosting management
-* OpenVZ: https://openvz.org (OS)
-* Xen Hypervisor: http://www.xenproject.org/ (OS)
+## Server/Hosting management panels
 * Froxlor: http://froxlor.org/ (OS)
 * Vesta: https://vestacp.com/ (OS)
 * ISPConfig3: http://www.ispconfig.org/
@@ -24,7 +23,14 @@ Tools for VPS and cloud providers
 * VirtPanel: https://site.virtpanel.com/
 * OnApp: http://onapp.com/
 * cPanel + WHM: https://store.cpanel.net/
+* Virtkick: https://www.virtkick.com/
+* Virtsimple: https://virtsimple.com/
 
+## Hypervisors
+* KVM: http://www.linux-kvm.org/ (OS)
+* OpenVZ: https://openvz.org (OS)
+* Xen: http://www.xenproject.org/ (OS)
+ 
 ## Networking
 * Open vSwitch: http://openvswitch.org/
 * VLAN: http://en.wikipedia.org/wiki/Virtual_LAN, https://wiki.ubuntu.com/vlan
