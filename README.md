@@ -59,5 +59,5 @@ Shared Hosting:
 VPS Hosting:
 * Virtualizor (More Updates) or SolusVM (More Stable & Popular)
 
-Cloud Hosting:
+Cloud VM Hosting:
 * OnApp (Expensive) or VirtEngine (New)
